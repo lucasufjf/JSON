@@ -1,0 +1,49 @@
+{
+  "dragQueens": [
+    {
+      "name": "RuPaul",
+      "realName": "RuPaul Andre Charles",
+      "age": 61,
+      "birthplace": "San Diego, California, U.S.",
+      "famousFor": "RuPaul's Drag Race",
+      "bio": "RuPaul is an American drag queen, actor, model, singer, songwriter, and television personality. He is best known for hosting the reality competition television series 'RuPaul's Drag Race.'",
+      "quote": "You better werk!"
+    },
+    {
+      "name": "Bianca Del Rio",
+      "realName": "Roy Haylock",
+      "age": 46,
+      "birthplace": "New Orleans, Louisiana, U.S.",
+      "famousFor": "Winner of 'RuPaul's Drag Race' Season 6",
+      "bio": "Bianca Del Rio is an American drag queen, comedian, actor, and costume designer. She gained fame for winning the sixth season of 'RuPaul's Drag Race' and is known for her sharp wit and humor.",
+      "quote": "Not today, Satan!"
+    },
+    {
+      "name": "Adore Delano",
+      "realName": "Daniel Anthony Noriega",
+      "age": 32,
+      "birthplace": "Azusa, California, U.S.",
+      "famousFor": "Contestant on 'RuPaul's Drag Race' Season 6 and 'RuPaul's Drag Race All Stars' Season 2",
+      "bio": "Adore Delano is an American drag queen, singer, and reality television personality. She first rose to prominence as a contestant on the sixth season of 'RuPaul's Drag Race' and later returned for 'RuPaul's Drag Race All Stars' Season 2.",
+      "quote": "Party!"
+    },
+    {
+      "name": "Alaska Thunderfuck 5000",
+      "realName": "Justin Andrew Honard",
+      "age": 36,
+      "birthplace": "Erie, Pennsylvania, U.S.",
+      "famousFor": "Contestant on 'RuPaul's Drag Race' Season 5 and Winner of 'RuPaul's Drag Race All Stars' Season 2",
+      "bio": "Alaska Thunderfuck 5000 is an American drag queen, singer, and winner of 'RuPaul's Drag Race All Stars' Season 2. She gained fame as a contestant on the fifth season of 'RuPaul's Drag Race' and is known for her unique style and humor.",
+      "quote": "Hieeee!"
+    },
+    {
+      "name": "Shangela",
+      "realName": "Darius Jeremy Pierce",
+      "age": 40,
+      "birthplace": "Paris, Texas, U.S.",
+      "famousFor": "Contestant on 'RuPaul's Drag Race' Seasons 2, 3, and 4; Also appeared on 'RuPaul's Drag Race All Stars' Seasons 3 and 4",
+      "bio": "Shangela is an American drag queen, actor, and comedian. She is known for her appearances on multiple seasons of 'RuPaul's Drag Race,' as well as her roles in television and film.",
+      "quote": "Halleloo!"
+    }
+  ]
+}
